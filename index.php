@@ -1,3 +1,3 @@
 <?php
 
-echo "<h1>Born to be alive ^^</h1>"
+echo "<h1>Born to be alive ^^</h1>";
