@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>Born to be alive ^^</h1>";
+header("Strict-Transport-Security: max-age=123")
 
-print_r(getenv());
+echo "<h1>Born to be alive ^^</h1>";
 
